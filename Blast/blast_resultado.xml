@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.11.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_14867</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>70</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_14867</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>70</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1189419117|gb|CP018159.1|</Hit_id>
+  <Hit_def>Oryza sativa Indica Group cultivar Shuhui498 chromosome 3 sequence</Hit_def>
+  <Hit_accession>CP018159</Hit_accession>
+  <Hit_len>39691490</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>31157061</Hsp_hit-from>
+      <Hsp_hit-to>31156992</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1002253322|ref|XM_015775411.1|</Hit_id>
+  <Hit_def>PREDICTED: Oryza sativa Japonica Group beta-glucosidase 7-like (LOC4333841), mRNA</Hit_def>
+  <Hit_accession>XM_015775411</Hit_accession>
+  <Hit_len>2013</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>124</Hsp_hit-from>
+      <Hsp_hit-to>193</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|937906879|dbj|AP014959.1|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group DNA, chromosome 3, cultivar: Nipponbare, complete sequence</Hit_def>
+  <Hit_accession>AP014959</Hit_accession>
+  <Hit_len>36413819</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>28245219</Hsp_hit-from>
+      <Hsp_hit-to>28245150</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|932282751|gb|CP012611.1|</Hit_id>
+  <Hit_def>Oryza sativa Indica Group cultivar RP Bio-226 chromosome 3 sequence</Hit_def>
+  <Hit_accession>CP012611</Hit_accession>
+  <Hit_len>39504267</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>30388337</Hsp_hit-from>
+      <Hsp_hit-to>30388268</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|545397562|gb|KF214527.1|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group beta-glucosidase mRNA, complete cds</Hit_def>
+  <Hit_accession>KF214527</Hit_accession>
+  <Hit_len>1907</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>70</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|156765080|dbj|AK288465.1|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group cDNA, clone: J090036M08, full insert sequence</Hit_def>
+  <Hit_accession>AK288465</Hit_accession>
+  <Hit_len>5042</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>3190</Hsp_hit-from>
+      <Hsp_hit-to>3259</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|112776961|gb|U28047.3|OSU28047</Hit_id>
+  <Hit_def>Oryza sativa (japonica cultivar-group) beta-glucosidase mRNA, complete cds</Hit_def>
+  <Hit_accession>U28047</Hit_accession>
+  <Hit_len>1909</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>85</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|56606238|gb|AC091670.7|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group cultivar Nipponbare chromosome 3 clone OJ1212_C08 map R2847, complete sequence</Hit_def>
+  <Hit_accession>AC091670</Hit_accession>
+  <Hit_len>100918</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>86021</Hsp_hit-from>
+      <Hsp_hit-to>85952</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|39573760|gb|AC133334.8|</Hit_id>
+  <Hit_def>Oryza sativa chromosome 3 BAC OSJNBa0004L11 genomic sequence, complete sequence</Hit_def>
+  <Hit_accession>AC133334</Hit_accession>
+  <Hit_len>133889</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>74733</Hsp_hit-from>
+      <Hsp_hit-to>74802</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|42821641|dbj|AK105026.2|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group cDNA clone:001-011-H02, full insert sequence</Hit_def>
+  <Hit_accession>AK105026</Hit_accession>
+  <Hit_len>1846</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|32988236|dbj|AK103027.1|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group cDNA clone:J033117C01, full insert sequence</Hit_def>
+  <Hit_accession>AK103027</Hit_accession>
+  <Hit_len>1857</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|32985374|dbj|AK100165.1|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group cDNA clone:J023021K07, full insert sequence</Hit_def>
+  <Hit_accession>AK100165</Hit_accession>
+  <Hit_len>1894</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.522</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>4.71271e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>80</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>70</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|906410588|gb|KM982771.1|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group clone KCG184F04 glycosyl hydrolase mRNA, complete cds</Hit_def>
+  <Hit_accession>KM982771</Hit_accession>
+  <Hit_len>1885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.0615</Hsp_bit-score>
+      <Hsp_score>104</Hsp_score>
+      <Hsp_evalue>2.78546e-16</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>CTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1495912374|ref|XM_026856594.1|</Hit_id>
+  <Hit_def>PREDICTED: Athene cunicularia WW domain containing oxidoreductase (WWOX), mRNA</Hit_def>
+  <Hit_accession>XM_026856594</Hit_accession>
+  <Hit_len>2291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>45.4688</Hsp_bit-score>
+      <Hsp_score>49</Hsp_score>
+      <Hsp_evalue>0.441777</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1022</Hsp_hit-from>
+      <Hsp_hit-to>1048</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>26</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGGCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1561602663|ref|XM_027792482.1|</Hit_id>
+  <Hit_def>PREDICTED: Falco peregrinus WW domain containing oxidoreductase (WWOX), partial mRNA</Hit_def>
+  <Hit_accession>XM_027792482</Hit_accession>
+  <Hit_len>1661</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>45.4688</Hsp_bit-score>
+      <Hsp_score>49</Hsp_score>
+      <Hsp_evalue>0.441777</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1099</Hsp_hit-from>
+      <Hsp_hit-to>1125</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>26</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGGCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1561591403|ref|XM_027802936.1|</Hit_id>
+  <Hit_def>PREDICTED: Falco cherrug WW domain containing oxidoreductase (WWOX), partial mRNA</Hit_def>
+  <Hit_accession>XM_027802936</Hit_accession>
+  <Hit_len>2217</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>45.4688</Hsp_bit-score>
+      <Hsp_score>49</Hsp_score>
+      <Hsp_evalue>0.441777</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1099</Hsp_hit-from>
+      <Hsp_hit-to>1125</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>26</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGGCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1885978917|emb|LR862393.1|</Hit_id>
+  <Hit_def>Arvicola amphibius genome assembly, chromosome: 13</Hit_def>
+  <Hit_accession>LR862393</Hit_accession>
+  <Hit_len>75712621</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>43.6655</Hsp_bit-score>
+      <Hsp_score>47</Hsp_score>
+      <Hsp_evalue>1.54195</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>28</Hsp_query-to>
+      <Hsp_hit-from>16868372</Hsp_hit-from>
+      <Hsp_hit-to>16868346</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>28</Hsp_align-len>
+      <Hsp_qseq>CGTGTGCTTGCGCTACTGCTTGGTCTCA</Hsp_qseq>
+      <Hsp_hseq>CGTGTGCTTGC-CTACTGCTTGGTCTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|699689447|ref|XM_009890387.1|</Hit_id>
+  <Hit_def>PREDICTED: Charadrius vociferus WW domain containing oxidoreductase (WWOX), mRNA</Hit_def>
+  <Hit_accession>XM_009890387</Hit_accession>
+  <Hit_len>2145</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.7638</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>1.54195</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>63</Hsp_query-to>
+      <Hsp_hit-from>1015</Hsp_hit-from>
+      <Hsp_hit-to>1042</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>26</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>28</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCGG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGTCGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|1910376416|ref|XM_016125692.2|</Hit_id>
+  <Hit_def>PREDICTED: Rousettus aegyptiacus BCL2 like 13 (BCL2L13), transcript variant X11, mRNA</Hit_def>
+  <Hit_accession>XM_016125692</Hit_accession>
+  <Hit_len>708</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.7638</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>1.54195</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>CTACCGCTGGGAGACCCTGTCAGAACAACTGCTGCCGCCGCC-GCCGCCG</Hsp_hseq>
+      <Hsp_midline>|||| ||| ||   | ||||  |||||||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1910376414|ref|XM_036236857.1|</Hit_id>
+  <Hit_def>PREDICTED: Rousettus aegyptiacus BCL2 like 13 (BCL2L13), transcript variant X10, mRNA</Hit_def>
+  <Hit_accession>XM_036236857</Hit_accession>
+  <Hit_len>657</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.7638</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>1.54195</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>CTACCGCTGGGAGACCCTGTCAGAACAACTGCTGCCGCCGCC-GCCGCCG</Hsp_hseq>
+      <Hsp_midline>|||| ||| ||   | ||||  |||||||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1910376413|ref|XM_016125677.2|</Hit_id>
+  <Hit_def>PREDICTED: Rousettus aegyptiacus BCL2 like 13 (BCL2L13), transcript variant X9, mRNA</Hit_def>
+  <Hit_accession>XM_016125677</Hit_accession>
+  <Hit_len>1014</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.7638</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>1.54195</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>98</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>CTACCGCTGGGAGACCCTGTCAGAACAACTGCTGCCGCCGCC-GCCGCCG</Hsp_hseq>
+      <Hsp_midline>|||| ||| ||   | ||||  |||||||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1910376412|ref|XM_016125668.2|</Hit_id>
+  <Hit_def>PREDICTED: Rousettus aegyptiacus BCL2 like 13 (BCL2L13), transcript variant X8, mRNA</Hit_def>
+  <Hit_accession>XM_016125668</Hit_accession>
+  <Hit_len>3032</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.7638</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>1.54195</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>CTACCGCTGGGAGACCCTGTCAGAACAACTGCTGCCGCCGCC-GCCGCCG</Hsp_hseq>
+      <Hsp_midline>|||| ||| ||   | ||||  |||||||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|1910376407|ref|XM_016125640.2|</Hit_id>
+  <Hit_def>PREDICTED: Rousettus aegyptiacus BCL2 like 13 (BCL2L13), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_016125640</Hit_accession>
+  <Hit_len>6722</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.7638</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>1.54195</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>CTACCGCTGGGAGACCCTGTCAGAACAACTGCTGCCGCCGCC-GCCGCCG</Hsp_hseq>
+      <Hsp_midline>|||| ||| ||   | ||||  |||||||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1910376405|ref|XM_036236855.1|</Hit_id>
+  <Hit_def>PREDICTED: Rousettus aegyptiacus BCL2 like 13 (BCL2L13), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_036236855</Hit_accession>
+  <Hit_len>6758</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.7638</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>1.54195</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>CTACCGCTGGGAGACCCTGTCAGAACAACTGCTGCCGCCGCC-GCCGCCG</Hsp_hseq>
+      <Hsp_midline>|||| ||| ||   | ||||  |||||||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|1910376403|ref|XM_016125609.2|</Hit_id>
+  <Hit_def>PREDICTED: Rousettus aegyptiacus BCL2 like 13 (BCL2L13), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_016125609</Hit_accession>
+  <Hit_len>6865</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.7638</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>1.54195</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>CTACCGCTGGGAGACCCTGTCAGAACAACTGCTGCCGCCGCC-GCCGCCG</Hsp_hseq>
+      <Hsp_midline>|||| ||| ||   | ||||  |||||||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|1839609683|ref|XM_034254995.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila albomicans E3 ubiquitin-protein ligase Bre1 (LOC117572287), mRNA</Hit_def>
+  <Hit_accession>XM_034254995</Hit_accession>
+  <Hit_len>3745</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>181</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>26</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCCG-CTGCCGGCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1717793323|gb|CP042266.1|</Hit_id>
+  <Hit_def>Streptomyces qinzhouensis strain SSL-25 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP042266</Hit_accession>
+  <Hit_len>8146484</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>6316627</Hsp_hit-from>
+      <Hsp_hit-to>6316656</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>CTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CTGCTGCCGCTGCCCGGCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||| | |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|1532254273|gb|CP020700.1|</Hit_id>
+  <Hit_def>Streptomyces tsukubensis strain NRRL 18488 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP020700</Hit_accession>
+  <Hit_len>7963742</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>6637656</Hsp_hit-from>
+      <Hsp_hit-to>6637685</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>CTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CTGCTGCCGCTGCCCGGCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||| | |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|1552329235|ref|XM_027685046.1|</Hit_id>
+  <Hit_def>PREDICTED: Neopelma chrysocephalum ATPase secretory pathway Ca2+ transporting 2 (ATP2C2), mRNA</Hit_def>
+  <Hit_accession>XM_027685046</Hit_accession>
+  <Hit_len>2994</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>28</Hsp_query-from>
+      <Hsp_query-to>54</Hsp_query-to>
+      <Hsp_hit-from>2778</Hsp_hit-from>
+      <Hsp_hit-to>2806</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>29</Hsp_align-len>
+      <Hsp_qseq>ACTGTGTGAACAA--CTGCTGCCGCCGCC</Hsp_qseq>
+      <Hsp_hseq>ACTGTGTGAACAACGCTGCTGCCGCCGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|1189419116|gb|CP018158.1|</Hit_id>
+  <Hit_def>Oryza sativa Indica Group cultivar Shuhui498 chromosome 2 sequence</Hit_def>
+  <Hit_accession>CP018158</Hit_accession>
+  <Hit_len>37764328</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>20876522</Hsp_hit-from>
+      <Hsp_hit-to>20876546</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>CTGCTGCCGCCGCCTGCCGGCGGTG</Hsp_qseq>
+      <Hsp_hseq>CTGCTGCCGCCGCCTGCCGGTGGTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|937901440|dbj|AP014958.1|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group DNA, chromosome 2, cultivar: Nipponbare, complete sequence</Hit_def>
+  <Hit_accession>AP014958</Hit_accession>
+  <Hit_len>35937250</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>19654822</Hsp_hit-from>
+      <Hsp_hit-to>19654846</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>CTGCTGCCGCCGCCTGCCGGCGGTG</Hsp_qseq>
+      <Hsp_hseq>CTGCTGCCGCCGCCTGCCGGTGGTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|932282624|gb|CP012610.1|</Hit_id>
+  <Hit_def>Oryza sativa Indica Group cultivar RP Bio-226 chromosome 2 sequence</Hit_def>
+  <Hit_accession>CP012610</Hit_accession>
+  <Hit_len>36385228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>19938930</Hsp_hit-from>
+      <Hsp_hit-to>19938954</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>CTGCTGCCGCCGCCTGCCGGCGGTG</Hsp_qseq>
+      <Hsp_hseq>CTGCTGCCGCCGCCTGCCGGTGGTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|431827765|gb|CP003051.1|</Hit_id>
+  <Hit_def>Thioflavicoccus mobilis 8321, complete genome</Hit_def>
+  <Hit_accession>CP003051</Hit_accession>
+  <Hit_len>4048921</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>46</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>2471870</Hsp_hit-from>
+      <Hsp_hit-to>2471894</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>GCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>GCCGCCGCCGGCCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>||||||||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|1896858044|gb|CP029159.1|</Hit_id>
+  <Hit_def>Streptomyces tsukubensis NRRL18488 chromosome</Hit_def>
+  <Hit_accession>CP029159</Hit_accession>
+  <Hit_len>7950181</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>70</Hsp_query-to>
+      <Hsp_hit-from>1522356</Hsp_hit-from>
+      <Hsp_hit-to>1522327</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>CTGCTGCCGCCGCCTGCCGGCGGTGTGCTC</Hsp_qseq>
+      <Hsp_hseq>CTGCTGCCGCTGCCCGGCGGCGGTGTGCTC</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||| | |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|50253032|dbj|AP005798.3|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group genomic DNA, chromosome 2, BAC clone:B1136H02</Hit_def>
+  <Hit_accession>AP005798</Hit_accession>
+  <Hit_len>145086</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>30974</Hsp_hit-from>
+      <Hsp_hit-to>30998</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>CTGCTGCCGCCGCCTGCCGGCGGTG</Hsp_qseq>
+      <Hsp_hseq>CTGCTGCCGCCGCCTGCCGGTGGTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|37591154|dbj|AP005110.2|</Hit_id>
+  <Hit_def>Oryza sativa Japonica Group genomic DNA, chromosome 2, PAC clone:P0605D08</Hit_def>
+  <Hit_accession>AP005110</Hit_accession>
+  <Hit_len>144340</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>65</Hsp_query-to>
+      <Hsp_hit-from>140502</Hsp_hit-from>
+      <Hsp_hit-to>140526</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>CTGCTGCCGCCGCCTGCCGGCGGTG</Hsp_qseq>
+      <Hsp_hseq>CTGCTGCCGCCGCCTGCCGGTGGTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|1838348600|ref|XM_005152159.3|</Hit_id>
+  <Hit_def>PREDICTED: Melopsittacus undulatus WW domain containing oxidoreductase (LOC101870789), mRNA</Hit_def>
+  <Hit_accession>XM_005152159</Hit_accession>
+  <Hit_len>2316</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1177</Hsp_hit-from>
+      <Hsp_hit-to>1203</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|1836318427|gb|CP052860.1|</Hit_id>
+  <Hit_def>Pseudomonas sp. ADAK13 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP052860</Hit_accession>
+  <Hit_len>7300098</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>2710172</Hsp_hit-from>
+      <Hsp_hit-to>2710193</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>22</Hsp_align-len>
+      <Hsp_qseq>CTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>CTGCTGCCGCCGCCTGCCGGCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|1822560752|ref|XM_032990637.1|</Hit_id>
+  <Hit_def>PREDICTED: Tyto alba alba WW domain containing oxidoreductase (WWOX), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_032990637</Hit_accession>
+  <Hit_len>2277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1153</Hsp_hit-from>
+      <Hsp_hit-to>1179</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|1729008140|ref|XM_030471284.1|</Hit_id>
+  <Hit_def>PREDICTED: Strigops habroptila MAF bZIP transcription factor (MAF), mRNA</Hit_def>
+  <Hit_accession>XM_030471284</Hit_accession>
+  <Hit_len>12807</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>3088</Hsp_hit-from>
+      <Hsp_hit-to>3062</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|1729008132|ref|XM_030471280.1|</Hit_id>
+  <Hit_def>PREDICTED: Strigops habroptila WW domain containing oxidoreductase (WWOX), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_030471280</Hit_accession>
+  <Hit_len>2211</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1196</Hsp_hit-from>
+      <Hsp_hit-to>1222</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|1917221960|gb|CP062939.1|</Hit_id>
+  <Hit_def>Bifidobacterium subtile strain KCTC 3272 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP062939</Hit_accession>
+  <Hit_len>2822354</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>31</Hsp_query-from>
+      <Hsp_query-to>64</Hsp_query-to>
+      <Hsp_hit-from>2138269</Hsp_hit-from>
+      <Hsp_hit-to>2138237</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>34</Hsp_align-len>
+      <Hsp_qseq>GTGTGAACAACTGCTGCCGCCGCCTGCCGGCGGT</Hsp_qseq>
+      <Hsp_hseq>GTGTGAACAACTGCCG-CGTCGCCTGCCTGCGGT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| | || |||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|1914782121|ref|NG_019013.3|</Hit_id>
+  <Hit_def>Mus musculus predicted gene 9226 (Gm9226) pseudogene on chromosome 7</Hit_def>
+  <Hit_accession>NG_019013</Hit_accession>
+  <Hit_len>3845</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>69</Hsp_query-to>
+      <Hsp_hit-from>2655</Hsp_hit-from>
+      <Hsp_hit-to>2624</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>CAACTGCTGCCGCCGCCTGCCGGCGGTGTGCT</Hsp_qseq>
+      <Hsp_hseq>CAACTGCTGACAAGGCCTGCCGGCGGTGTGCT</Hsp_hseq>
+      <Hsp_midline>||||||||| |   ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|1886074550|ref|XM_027603813.2|</Hit_id>
+  <Hit_def>PREDICTED: Zalophus californianus SZT2 subunit of KICSTOR complex (SZT2), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_027603813</Hit_accession>
+  <Hit_len>9263</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>51</Hsp_query-to>
+      <Hsp_hit-from>5699</Hsp_hit-from>
+      <Hsp_hit-to>5673</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCACTGTGTGAACAACTGCTGCCGCC</Hsp_qseq>
+      <Hsp_hseq>CTCACTGTCTGAACCACTGCTGCCGCC</Hsp_hseq>
+      <Hsp_midline>|||||||| ||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1886074549|ref|XM_027603803.2|</Hit_id>
+  <Hit_def>PREDICTED: Zalophus californianus SZT2 subunit of KICSTOR complex (SZT2), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_027603803</Hit_accession>
+  <Hit_len>10360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>51</Hsp_query-to>
+      <Hsp_hit-from>5698</Hsp_hit-from>
+      <Hsp_hit-to>5672</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCACTGTGTGAACAACTGCTGCCGCC</Hsp_qseq>
+      <Hsp_hseq>CTCACTGTCTGAACCACTGCTGCCGCC</Hsp_hseq>
+      <Hsp_midline>|||||||| ||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|1886074548|ref|XM_027603792.2|</Hit_id>
+  <Hit_def>PREDICTED: Zalophus californianus SZT2 subunit of KICSTOR complex (SZT2), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_027603792</Hit_accession>
+  <Hit_len>10962</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>51</Hsp_query-to>
+      <Hsp_hit-from>5698</Hsp_hit-from>
+      <Hsp_hit-to>5672</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCACTGTGTGAACAACTGCTGCCGCC</Hsp_qseq>
+      <Hsp_hseq>CTCACTGTCTGAACCACTGCTGCCGCC</Hsp_hseq>
+      <Hsp_midline>|||||||| ||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|1886074547|ref|XM_027603781.2|</Hit_id>
+  <Hit_def>PREDICTED: Zalophus californianus SZT2 subunit of KICSTOR complex (SZT2), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_027603781</Hit_accession>
+  <Hit_len>10977</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>51</Hsp_query-to>
+      <Hsp_hit-from>5698</Hsp_hit-from>
+      <Hsp_hit-to>5672</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCACTGTGTGAACAACTGCTGCCGCC</Hsp_qseq>
+      <Hsp_hseq>CTCACTGTCTGAACCACTGCTGCCGCC</Hsp_hseq>
+      <Hsp_midline>|||||||| ||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|1870286614|gb|CP053452.2|</Hit_id>
+  <Hit_def>Frigoriglobus tundricola strain PL17 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP053452</Hit_accession>
+  <Hit_len>9832702</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>42</Hsp_query-from>
+      <Hsp_query-to>68</Hsp_query-to>
+      <Hsp_hit-from>3384541</Hsp_hit-from>
+      <Hsp_hit-to>3384567</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>TGCTGCCGCCGCCTGCCGGCGGTGTGC</Hsp_qseq>
+      <Hsp_hseq>TGCTACCGCCGCCTGCGGGCGGTGTGC</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||| ||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|1865194848|ref|XM_035336412.1|</Hit_id>
+  <Hit_def>PREDICTED: Oxyura jamaicensis WW domain containing oxidoreductase (WWOX), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_035336412</Hit_accession>
+  <Hit_len>1849</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1220</Hsp_hit-from>
+      <Hsp_hit-to>1246</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|1862941703|emb|LS423622.1|</Hit_id>
+  <Hit_def>Anas platyrhynchos genome assembly, chromosome: 12</Hit_def>
+  <Hit_accession>LS423622</Hit_accession>
+  <Hit_len>20948378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.38195</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>14992621</Hsp_hit-from>
+      <Hsp_hit-to>14992647</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AACAACTGCTGCCGCCGCCTGCCGGCG</Hsp_qseq>
+      <Hsp_hseq>AACAACTGCTGCCGCTGCCTGCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>61180198</Statistics_db-num>
+      <Statistics_db-len>421089428</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

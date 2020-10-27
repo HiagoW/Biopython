@@ -1,0 +1,59 @@
+BLASTN 2.10.1+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: User specified sequence set (Input: exemplo2.fasta).
+           1 sequences; 70 total letters
+
+
+
+Query= beta-glucosidase_parcial_mRNA
+
+Length=70
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+beta-glucosidase_parcial_mRNA_2                                       124     1e-34
+
+
+> beta-glucosidase_parcial_mRNA_2
+Length=70
+
+ Score = 124 bits (67),  Expect = 1e-34
+ Identities = 69/70 (99%), Gaps = 0/70 (0%)
+ Strand=Plus/Plus
+
+Query  1   CGTGTGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGG  60
+           |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1   CGTGAGCTTGCGCTACTGCTTGGTCTCACTGTGTGAACAACTGCTGCCGCCGCCTGCCGG  60
+
+Query  61  CGGTGTGCTC  70
+           ||||||||||
+Sbjct  61  CGGTGTGCTC  70
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4096
+
+
+  Database: User specified sequence set (Input: exemplo2.fasta).
+    Posted date:  Unknown
+  Number of letters in database: 70
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5
